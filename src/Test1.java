@@ -7,4 +7,5 @@ public class Test1 {
     private int f6;
     private int f7;
     private int f9;
+    private int f8;
 }
