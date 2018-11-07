@@ -6,4 +6,5 @@ public class Test1 {
     private int f5;
     private int f6;
     private int f7;
+    private int f9;
 }
